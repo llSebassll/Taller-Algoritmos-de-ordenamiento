@@ -1,0 +1,17 @@
+{
+  "name": "taller-sort-zamba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "canvas": "3.2.3",
+    "chart.js": "4.5.1"
+  }
+}
